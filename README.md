@@ -36,6 +36,6 @@ npm install --save-dev optimize-css-assets-webpack-plugin
 
 References:  
 
-[Learn Webpack by Colt Steele course](https://www.youtube.com/watch?v=3On5Z0gjf4U&list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
-[Learn Webpack by Colt Steele files](https://github.com/Colt/webpack-demo-app)
+[Learn Webpack by Colt Steele course](https://www.youtube.com/watch?v=3On5Z0gjf4U&list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)  
+[Learn Webpack by Colt Steele files](https://github.com/Colt/webpack-demo-app)  
 [webpack docs](https://webpack.js.org/guides/getting-started/)
