@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title><%= htmlWebpackPlugin.options.title %></title>
+  </head>
+  <body class="container">
+    <h1><%= htmlWebpackPlugin.options.header %></h1>
+    <%= require('html-loader!./partial.html') %>
+    <img src="./assets/webpack.svg" />
+  </body>
+</html>

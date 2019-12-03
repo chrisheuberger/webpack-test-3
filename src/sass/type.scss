@@ -1,0 +1,13 @@
+$spacer: 1rem;
+
+$h1-color: gold;
+$p-color: yellow;
+
+h1 {
+  color: $h1-color;
+}
+
+p {
+  margin-bottom: $spacer;
+  color: $p-color;
+}
