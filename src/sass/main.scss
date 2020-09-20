@@ -1,4 +1,4 @@
-$body-bg: purple;
+@import 'variables.scss';
 
 * {
   font-family: monaco;
@@ -10,4 +10,12 @@ body {
 
 img {
   width: 50%;
+}
+
+.box {
+  width: 50%;
+  height: 200px;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: $box-bg;
 }
